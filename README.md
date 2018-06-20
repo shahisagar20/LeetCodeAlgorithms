@@ -5,6 +5,7 @@
     Given array: [2,7,3,1,15,10]<br/> 
           target = 9 <br/>
           output : [0,1] <br/>
+    Contents is the file that contains the implementation of the algorithm in swift
           
  * ### Hello
           
